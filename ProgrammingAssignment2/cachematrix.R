@@ -40,7 +40,7 @@ cacheSolve <- function(x, ...) {
   ##Cache matrix
   x$setinverse(i)
   
-  ##Return inverse
+  ##Return matrix
   x
 }
 
