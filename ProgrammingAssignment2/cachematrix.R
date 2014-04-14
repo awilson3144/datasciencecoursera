@@ -1,5 +1,4 @@
 ## The functions below are used to create a matrix and cache it's inverse
-## functions do
 
 ## This function creates a list of functions to
 ##   1) set the value of the matrix
